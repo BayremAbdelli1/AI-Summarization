@@ -1,0 +1,9 @@
+To run the code :streamlit run summ.py
+
+
+Libraries to be installed
+langchain
+langchain_community
+openai==0.28.0
+tiktoken
+faiss_cpu
